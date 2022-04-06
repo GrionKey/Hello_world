@@ -1,0 +1,11 @@
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\bin\x64\Debug\заказы.exe.config
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\bin\x64\Debug\заказы.exe
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\bin\x64\Debug\заказы.pdb
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.csproj.AssemblyReference.cache
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.Form1.resources
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.Form2.resources
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.Properties.Resources.resources
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.csproj.GenerateResource.cache
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.csproj.CoreCompileInputs.cache
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.exe
+C:\Users\Grion\Desktop\бдгка2\заказы\заказы\obj\x64\Debug\заказы.pdb
